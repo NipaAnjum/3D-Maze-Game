@@ -1,0 +1,11 @@
+void drawSkybox(double);
+void draw_field();
+void drawBox (GLint, GLint, unsigned);
+void drawFloor(GLfloat , GLfloat , GLfloat , GLfloat , unsigned);
+void tree_top();
+void tree_bottom();
+void tree();
+void makeTree(float height, float base);
+void mountain();
+void makeSphere();
+void air_balloon();
